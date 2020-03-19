@@ -33,7 +33,7 @@ Provavelmente existem dezenas desses profissionais perto de você.
 ![Home](http://www.imperiumsoftware.com.br/img/freela/Tela02Home.png)
 ![Lista de Profissionais](http://www.imperiumsoftware.com.br/img/freela/Tela03Profissionais.png) |
 ![Perfil](http://www.imperiumsoftware.com.br/img/freela/Tela04Perfil.png)
-![Comentarios](http://www.imperiumsoftware.com.br/img/freela-Tela05PerfilComentarios.png)
+![Comentarios](http://www.imperiumsoftware.com.br/img/freela/Tela05PerfilComentarios.png)
 
 ### Monetização
 
@@ -41,3 +41,9 @@ Provavelmente existem dezenas desses profissionais perto de você.
 * Cobrança de taxa do profissional por serviço contratado
 * Planos de assinatura de destaque de profissionais
 * Anúncios de vagas de emprego para profissionais
+
+### Melhorias Futuras
+
+* Exibição dos profissionais no mapa da região do usuário
+* Solicitação de orçamentos através do próprio aplicativo
+* Contratação e Pagamento do serviço através do aplicativo
