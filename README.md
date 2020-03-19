@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Freela - Plataforma para prestação de serviços
 
-You can use the [editor on GitHub](https://github.com/danieltostes/freelav2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Aplicativo que tem o objetivo de dar visibilidade a profissionais informais e promover o contato com potenciais clientes que, na maioria das vezes, não tem facilidade para encontrar profissionais para as necessidades do dia a dia. Desde serviços mais simples como jardinagem, reparos domésticos, até serviços mais complexos, como reformas residenciais, por exemplo.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Sobre o projeto
 
-### Markdown
+O aplicativo nasceu da necessidade de encontrar profissionais para serviços que normalmente não tenham uma exigência de formalidade ou que muitas vezes acabam se tornando extremamente caros quando contratadas empresas para a realização do trabalho.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ele também proporciona que pessoas fora do mercado de trabalho, ou que queiram trabalhos extras para complementar renda, tenham visibilidade para mais pessoas. Muitas vezes precisamos de profissionais como pedreiros, pintores, cuidadores de animais, costureiras dentre uma série de outras atividades e não sabemos onde procurar.
 
-```markdown
-Syntax highlighted code block
+Provavelmente existem dezenas desses profissionais perto de você.
 
-# Header 1
-## Header 2
-### Header 3
+### Funcionalidades
 
-- Bulleted
-- List
+* Visualização de categorias de serviços oferecidos
+* Lista de profissionais por categoria
+* Avaliação do profissional por outros usuários do aplicativo
+* Galeria de fotos do profissional
+* Comentários sobre o trabalho do profissional por outros usuários do aplicativo
+* Chamada telefônica direto da tela de perfil do profissional
+* Conversa direta com o profissional para dúvidas e informações sobre preços (_em desenvolvimento_)
 
-1. Numbered
-2. List
+### Metodologia de Desenvolvimento
 
-**Bold** and _Italic_ and `Code` text
+* Desenvolvido por um único analista de sistemas
+* Aproximadamente 3 semanas de trabalho
+* Uso de notebook particular Windows 10 Core I5 8Gb
+* Aplicativo com versão disponível para Android e iOS
 
-[Link](url) and ![Image](src)
-```
+### Demonstração de algumas telas do aplicativo
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Login](http://www.imperiumsoftware.com.br/img/freela/Tela01Login.png) |
+![Home](http://www.imperiumsoftware.com.br/img/freela/Tela02Home.png)
+![Lista de Profissionais](http://www.imperiumsoftware.com.br/img/freela/Tela03Profissionais.png) |
+![Perfil](http://www.imperiumsoftware.com.br/img/freela/Tela04Perfil.png)
+![Comentarios](http://www.imperiumsoftware.com.br/img/freela-Tela05PerfilComentarios.png)
 
-### Jekyll Themes
+### Monetização
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danieltostes/freelav2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Ser um gateway de pagamento intermediando cliente e profissional
+* Cobrança de taxa do profissional por serviço contratado
+* Planos de assinatura de destaque de profissionais
+* Anúncios de vagas de emprego para profissionais
