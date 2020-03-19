@@ -51,4 +51,4 @@ Provavelmente existem dezenas desses profissionais perto de você.
 ### Conclusão
 
 * Versão alpha liberada para grupo controlado de usuários
-* Vídeo de apresentação do aplicativo https://youtu.be/4UaCRADaM7w
+* [Vídeo de apresentação do aplicativo] (https://youtu.be/4UaCRADaM7w)
