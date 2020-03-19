@@ -47,3 +47,8 @@ Provavelmente existem dezenas desses profissionais perto de você.
 * Exibição dos profissionais no mapa da região do usuário
 * Solicitação de orçamentos através do próprio aplicativo
 * Contratação e Pagamento do serviço através do aplicativo
+
+### Conclusão
+
+* Versão alpha liberada para grupo controlado de usuários
+* Vídeo de apresentação do aplicativo https://youtu.be/4UaCRADaM7w
