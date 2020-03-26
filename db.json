@@ -36,5 +36,85 @@
 			"categoria": "Eletrodomésticos e Eletrônicos",
 			"descricao": "Consertos de tv, geladeira e outros"
 		}
+	],
+	"profissionais" : [
+		{
+			"id": 1,
+			"categoriaId": 1,
+			"nome": "Maria dos Santos",
+			"endereco": {
+				"logradouro": "",
+				"latitude": 0,
+				"longitude": 0
+			},
+			"telefone": "(21) 99887-6655",
+			"foto": "",
+			"avaliacao": 3
+		},
+		{
+			"id": 2,
+			"categoriaId": 1,
+			"nome": "Luana Martins de Oliveira",
+			"endereco": {
+				"logradouro": "",
+				"latitude": 0,
+				"longitude": 0
+			},
+			"telefone": "(21) 99778-5566",
+			"foto": "",
+			"avaliacao": 5
+		},
+		{
+			"id": 3,
+			"categoriaId": 1,
+			"nome": "Suelen Rodrigues",
+			"endereco": {
+				"logradouro": "",
+				"latitude": 0,
+				"longitude": 0
+			},
+			"telefone": "(21) 98779-6541",
+			"foto": "",
+			"avaliacao": 4
+		},
+		{
+			"id": 4,
+			"categoriaId": 2,
+			"nome": "Josué Santana de Barros",
+			"endereco": {
+				"logradouro": "",
+				"latitude": 0,
+				"longitude": 0
+			},
+			"telefone": "(21) 88997-6532",
+			"foto": "",
+			"avaliacao": 5
+		},
+		{
+			"id": 5,
+			"categoriaId": 2,
+			"nome": "Diogo Fernandes",
+			"endereco": {
+				"logradouro": "",
+				"latitude": 0,
+				"longitude": 0
+			},
+			"telefone": "(21) 87799-1233",
+			"foto": "",
+			"avaliacao": 3
+		},
+		{
+			"id": 6,
+			"categoriaId": 2,
+			"nome": "Hamilton Santos",
+			"endereco": {
+				"logradouro": "",
+				"latitude": 0,
+				"longitude": 0
+			},
+			"telefone": "(21) 91554-3360",
+			"foto": "",
+			"avaliacao": 3
+		}
 	]
 }
