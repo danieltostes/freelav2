@@ -186,5 +186,15 @@
 			"comentario": "Realmente é muito cuidadosa com a casa. Talvez por isso a dificuldade em conseguir um dia na agenda.",
 			"foto": "http://www.imperiumsoftware.com.br/img/freela/mulher06.jpg"
 		}
+	],
+	"usuarios" : [
+		{
+			"email": "daniel.tostes@gmail.com",
+			"senha": "1234"
+		},
+		{
+			"email": "usuario@freela.com.br",
+			"senha": "1234"
+		}
 	]
 }
