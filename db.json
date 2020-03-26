@@ -5,36 +5,6 @@
 			"icone": "home",
 			"categoria": "Diaristas e Serviços Domésticos",
 			"descricao": "Limpeza, lavanderia e outros"
-		},
-		{
-			"id": 2,
-			"icone": "tools",
-			"categoria": "Reparos Domésticos",
-			"descricao": "Elétrica, hidráulica, marcenaria"
-		},
-		{
-			"id": 3,
-			"icone": "hammer",
-			"categoria": "Construção e Reforma",
-			"descricao": "Pintura e reformas em geral"
-		},
-		{
-			"id": 4,
-			"icone": "tshirt",
-			"categoria": "Corte e Costura",
-			"descricao": "Ajustes e confecção de roupas"
-		},
-		{
-			"id": 5,
-			"icone": "utensils",
-			"categoria": "Alimentação e Confeitaria",
-			"descricao": "Bolos, doces, salgados e afins"
-		},
-		{
-			"id": 6,
-			"icone": "tv",
-			"categoria": "Eletrodomésticos e Eletrônicos",
-			"descricao": "Consertos de tv, geladeira e outros"
 		}
 	]
 }
