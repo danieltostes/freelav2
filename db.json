@@ -1,0 +1,198 @@
+{
+	"categorias": [
+		{
+			id: 1
+			icone: 'home',
+			categoria: 'Diaristas e Serviços Domésticos',
+			descricao: 'Limpeza, lavanderia e outros'
+		},
+		{
+			id: 2
+			icone: 'tools',
+			categoria: 'Reparos Domésticos',
+			descricao: 'Elétrica, hidráulica, marcenaria'
+		},
+		{
+			id: 3
+			icone: 'hammer',
+			categoria: 'Construção e Reforma',
+			descricao: 'Pintura e reformas em geral'
+		},
+		{
+			id: 4
+			icone: 'tshirt',
+			categoria: 'Corte e Costura',
+			descricao: 'Ajustes e confecção de roupas'
+		},
+		{
+			id: 5
+			icone: 'utensils',
+			categoria: 'Alimentação e Confeitaria',
+			descricao: 'Bolos, doces, salgados e afins'
+		},
+		{
+			id: 6
+			icone: 'tv',
+			categoria: 'Eletrodomésticos e Eletrônicos',
+			descricao: 'Consertos de tv, geladeira e outros'
+		}
+	],
+	"profissionais" : [
+		{
+			id: 1,
+			categoriaId: 1,
+			nome: 'Maria dos Santos',
+			endereco: {
+				logradouro: '',
+				latitude: 0,
+				longitude: 0
+			},
+			telefone: '(21) 99887-6655',
+			foto: '',
+			avaliacao: 3
+		},
+		{
+			id: 2,
+			categoriaId: 1,
+			nome: 'Luana Martins de Oliveira',
+			endereco: {
+				logradouro: '',
+				latitude: 0,
+				longitude: 0
+			},
+			telefone: '(21) 99778-5566',
+			foto: '',
+			avaliacao: 5
+		},
+		{
+			id: 3,
+			categoriaId: 1,
+			nome: 'Suelen Rodrigues',
+			endereco: {
+				logradouro: '',
+				latitude: 0,
+				longitude: 0
+			},
+			telefone: '(21) 98779-6541',
+			foto: '',
+			avaliacao: 4
+		},
+		{
+			id: 4,
+			categoriaId: 2,
+			nome: 'Josué Santana de Barros',
+			endereco: {
+				logradouro: '',
+				latitude: 0,
+				longitude: 0
+			},
+			telefone: '(21) 88997-6532',
+			foto: '',
+			avaliacao: 5
+		},
+		{
+			id: 5,
+			categoriaId: 2,
+			nome: 'Diogo Fernandes',
+			endereco: {
+				logradouro: '',
+				latitude: 0,
+				longitude: 0
+			},
+			telefone: '(21) 87799-1233',
+			foto: '',
+			avaliacao: 3
+		},
+		{
+			id: 6,
+			categoriaId: 2,
+			nome: 'Hamilton Santos',
+			endereco: {
+				logradouro: '',
+				latitude: 0,
+				longitude: 0
+			},
+			telefone: '(21) 91554-3360',
+			foto: '',
+			avaliacao: 3
+		}
+	],
+	"galeria" : [
+		{
+			id: 1,
+			profissionalId: 4,
+			fotos: [
+				'http://www.imperiumsoftware.com.br/img/freela/decoracao01.jpg',
+				'http://www.imperiumsoftware.com.br/img/freela/decoracao02.jpg',
+				'http://www.imperiumsoftware.com.br/img/freela/decoracao03.jpg'
+			]
+		},
+		{
+			id: 2,
+			profissionalId: 5,
+			fotos: [
+				'http://www.imperiumsoftware.com.br/img/freela/decoracao03.jpg',
+				'http://www.imperiumsoftware.com.br/img/freela/decoracao01.jpg',
+				'http://www.imperiumsoftware.com.br/img/freela/decoracao02.jpg'
+			]
+		},
+		{
+			id: 3,
+			profissionalId: 6,
+			fotos: [
+				'http://www.imperiumsoftware.com.br/img/freela/decoracao02.jpg',
+				'http://www.imperiumsoftware.com.br/img/freela/decoracao03.jpg',
+				'http://www.imperiumsoftware.com.br/img/freela/decoracao01.jpg'
+			]
+		},
+		{
+			id: 4,
+			profissionalId: 1,
+			fotos: [
+				'http://www.imperiumsoftware.com.br/img/freela/vestido01.jpg',
+				'http://www.imperiumsoftware.com.br/img/freela/vestido02.jpg',
+				'http://www.imperiumsoftware.com.br/img/freela/vestido03.jpg',
+				'http://www.imperiumsoftware.com.br/img/freela/vestido04.jpg',
+			]
+		},
+		{
+			id: 5,
+			profissionalId: 2,
+			fotos: [
+				'http://www.imperiumsoftware.com.br/img/freela/vestido04.jpg',
+				'http://www.imperiumsoftware.com.br/img/freela/vestido03.jpg',
+				'http://www.imperiumsoftware.com.br/img/freela/vestido02.jpg',
+				'http://www.imperiumsoftware.com.br/img/freela/vestido01.jpg',
+			]
+		{
+			id: 6,
+			profissionalId: 3,
+			fotos: [
+				'http://www.imperiumsoftware.com.br/img/freela/vestido03.jpg',
+				'http://www.imperiumsoftware.com.br/img/freela/vestido04.jpg',
+				'http://www.imperiumsoftware.com.br/img/freela/vestido02.jpg',
+				'http://www.imperiumsoftware.com.br/img/freela/vestido01.jpg',
+			]
+		}
+	],
+	"comentarios" : [
+		{
+			id: 1,
+			profissionalID: 1,
+			autor: 'Daniel Tostes',
+			avaliacao: 5,
+			data: '25/03/2020',
+			comentario: 'Profissional excelente. Recomendo. Atenciosa e caprichosa. Nem reconheci a minha casa.',
+			foto: 'http://www.imperiumsoftware.com.br/img/freela/homem06.jpg'
+		},
+		{
+			id: 2,
+			profissionalID: 1,
+			autor: 'Bruna Menezes',
+			avaliacao: 5,
+			data: '22/03/2020',
+			comentario: 'Realmente é muito cuidadosa com a casa. Talvez por isso a dificuldade em conseguir um dia na agenda.',
+			foto: 'http://www.imperiumsoftware.com.br/img/freela/mulher06.jpg'
+		}
+	]
+}
