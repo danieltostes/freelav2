@@ -11,6 +11,12 @@
 			"icone": "tools",
 			"categoria": "Reparos Domésticos",
 			"descricao": "Elétrica, hidráulica, marcenaria"
+		},
+		{
+			"id": 3,
+			"icone": "hammer",
+			"categoria": "Construção e Reforma",
+			"descricao": "Pintura e reformas em geral"
 		}
 	]
 }
