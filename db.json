@@ -136,5 +136,17 @@
 			"comentario": "Realmente é muito cuidadosa com a casa. Talvez por isso a dificuldade em conseguir um dia na agenda.",
 			"foto": "http://www.imperiumsoftware.com.br/img/freela/mulher06.jpg"
 		}
+	],
+	"galeria" : [
+		{
+			"id": 1,
+			"profissionalId": 1,
+			"fotos" : [
+				{ "uriFoto" : "http://www.imperiumsoftware.com.br/img/freela/vestido01.jpg" },
+				{ "uriFoto" : "http://www.imperiumsoftware.com.br/img/freela/vestido02.jpg" },
+				{ "uriFoto" : "http://www.imperiumsoftware.com.br/img/freela/vestido03.jpg" },
+				{ "uriFoto" : "http://www.imperiumsoftware.com.br/img/freela/vestido04.jpg" }
+			]
+		}
 	]
 }
