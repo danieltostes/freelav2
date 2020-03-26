@@ -5,6 +5,12 @@
 			"icone": "home",
 			"categoria": "Diaristas e Serviços Domésticos",
 			"descricao": "Limpeza, lavanderia e outros"
+		},
+		{
+			"id": 2,
+			"icone": "tools",
+			"categoria": "Reparos Domésticos",
+			"descricao": "Elétrica, hidráulica, marcenaria"
 		}
 	]
 }
