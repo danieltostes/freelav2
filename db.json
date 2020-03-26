@@ -43,6 +43,7 @@
 			"categoriaId": 1,
 			"nome": "Maria dos Santos",
 			"endereco": {
+				"exibicao": "Centro - Nova Iguaçu",
 				"logradouro": "Rua Getúlio Vargas, 87, Sala 911 - Centro - Nova Iguaçu",
 				"latitude": -22.761592,
 				"longitude": -43.450754
@@ -56,6 +57,7 @@
 			"categoriaId": 1,
 			"nome": "Luana Martins de Oliveira",
 			"endereco": {
+				"exibicao": "Centro - Nova Iguaçu",
 				"logradouro": "Rua Azis Rachid, 105 - Centro - Nova Iguaçu",
 				"latitude": -22.761190,
 				"longitude": -43.453116
@@ -69,6 +71,7 @@
 			"categoriaId": 1,
 			"nome": "Suelen Rodrigues",
 			"endereco": {
+				"exibicao": "Centro - Nova Iguaçu",
 				"logradouro": "Rua Humberto Gentil Baroni, 136 - Centro - Nova Iguaçu",
 				"latitude": -22.762645,
 				"longitude": -43.449628
@@ -82,6 +85,7 @@
 			"categoriaId": 2,
 			"nome": "Josué Santana de Barros",
 			"endereco": {
+				"exibicao": "Centro - Nova Iguaçu",
 				"logradouro": "Rua Coronel Bernardino de Melo, 1821 - Centro - Nova Iguaçu",
 				"latitude": -22.761584,
 				"longitude": -43.448480
@@ -95,6 +99,7 @@
 			"categoriaId": 2,
 			"nome": "Diogo Fernandes",
 			"endereco": {
+				"exibicao": "Centro - Nova Iguaçu",
 				"logradouro": "Rua Coronel Alfredo Soares, 48 - Centro Nova Iguaçu",
 				"latitude": -22.761819,
 				"longitude": -43.452428
@@ -108,6 +113,7 @@
 			"categoriaId": 2,
 			"nome": "Hamilton Santos",
 			"endereco": {
+				"exibicao": "Centro - Nova Iguaçu",
 				"logradouro": "Av. Dr. Mario Guimarães, 715 - Centro - Nova Iguaçu",
 				"latitude": -22.758429,
 				"longitude": -43.458688
