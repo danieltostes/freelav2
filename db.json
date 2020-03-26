@@ -43,9 +43,9 @@
 			"categoriaId": 1,
 			"nome": "Maria dos Santos",
 			"endereco": {
-				"logradouro": "",
-				"latitude": 0,
-				"longitude": 0
+				"logradouro": "Rua Getúlio Vargas, 87, Sala 911 - Centro - Nova Iguaçu",
+				"latitude": -22.761592,
+				"longitude": -43.450754
 			},
 			"telefone": "(21) 99887-6655",
 			"foto": "",
@@ -56,9 +56,9 @@
 			"categoriaId": 1,
 			"nome": "Luana Martins de Oliveira",
 			"endereco": {
-				"logradouro": "",
-				"latitude": 0,
-				"longitude": 0
+				"logradouro": "Rua Azis Rachid, 105 - Centro - Nova Iguaçu",
+				"latitude": -22.761190,
+				"longitude": -43.453116
 			},
 			"telefone": "(21) 99778-5566",
 			"foto": "",
@@ -69,9 +69,9 @@
 			"categoriaId": 1,
 			"nome": "Suelen Rodrigues",
 			"endereco": {
-				"logradouro": "",
-				"latitude": 0,
-				"longitude": 0
+				"logradouro": "Rua Humberto Gentil Baroni, 136 - Centro - Nova Iguaçu",
+				"latitude": -22.762645,
+				"longitude": -43.449628
 			},
 			"telefone": "(21) 98779-6541",
 			"foto": "",
@@ -82,9 +82,9 @@
 			"categoriaId": 2,
 			"nome": "Josué Santana de Barros",
 			"endereco": {
-				"logradouro": "",
-				"latitude": 0,
-				"longitude": 0
+				"logradouro": "Rua Coronel Bernardino de Melo, 1821 - Centro - Nova Iguaçu",
+				"latitude": -22.761584,
+				"longitude": -43.448480
 			},
 			"telefone": "(21) 88997-6532",
 			"foto": "",
@@ -95,9 +95,9 @@
 			"categoriaId": 2,
 			"nome": "Diogo Fernandes",
 			"endereco": {
-				"logradouro": "",
-				"latitude": 0,
-				"longitude": 0
+				"logradouro": "Rua Coronel Alfredo Soares, 48 - Centro Nova Iguaçu",
+				"latitude": -22.761819,
+				"longitude": -43.452428
 			},
 			"telefone": "(21) 87799-1233",
 			"foto": "",
@@ -108,13 +108,92 @@
 			"categoriaId": 2,
 			"nome": "Hamilton Santos",
 			"endereco": {
-				"logradouro": "",
-				"latitude": 0,
-				"longitude": 0
+				"logradouro": "Av. Dr. Mario Guimarães, 715 - Centro - Nova Iguaçu",
+				"latitude": -22.758429,
+				"longitude": -43.458688
 			},
 			"telefone": "(21) 91554-3360",
 			"foto": "",
 			"avaliacao": 3
+		}
+	],
+	"galeria" : [
+		{
+			"id": 1,
+			"profissionalId": 4,
+			"fotos": [
+				"http://www.imperiumsoftware.com.br/img/freela/decoracao01.jpg",
+				"http://www.imperiumsoftware.com.br/img/freela/decoracao02.jpg",
+				"http://www.imperiumsoftware.com.br/img/freela/decoracao03.jpg"
+			]
+		},
+		{
+			"id": 2,
+			"profissionalId": 5,
+			"fotos": [
+				"http://www.imperiumsoftware.com.br/img/freela/decoracao03.jpg",
+				"http://www.imperiumsoftware.com.br/img/freela/decoracao01.jpg",
+				"http://www.imperiumsoftware.com.br/img/freela/decoracao02.jpg"
+			]
+		},
+		{
+			"id": 3,
+			"profissionalId": 6,
+			"fotos": [
+				"http://www.imperiumsoftware.com.br/img/freela/decoracao02.jpg",
+				"http://www.imperiumsoftware.com.br/img/freela/decoracao03.jpg",
+				"http://www.imperiumsoftware.com.br/img/freela/decoracao01.jpg"
+			]
+		},
+		{
+			"id": 4,
+			"profissionalId": 1,
+			"fotos": [
+				"http://www.imperiumsoftware.com.br/img/freela/vestido01.jpg",
+				"http://www.imperiumsoftware.com.br/img/freela/vestido02.jpg",
+				"http://www.imperiumsoftware.com.br/img/freela/vestido03.jpg",
+				"http://www.imperiumsoftware.com.br/img/freela/vestido04.jpg",
+			]
+		},
+		{
+			"id": 5,
+			"profissionalId": 2,
+			"fotos": [
+				"http://www.imperiumsoftware.com.br/img/freela/vestido04.jpg",
+				"http://www.imperiumsoftware.com.br/img/freela/vestido03.jpg",
+				"http://www.imperiumsoftware.com.br/img/freela/vestido02.jpg",
+				"http://www.imperiumsoftware.com.br/img/freela/vestido01.jpg",
+			]
+		},
+		{
+			"id": 6,
+			"profissionalId": 3,
+			"fotos": [
+				"http://www.imperiumsoftware.com.br/img/freela/vestido03.jpg",
+				"http://www.imperiumsoftware.com.br/img/freela/vestido04.jpg",
+				"http://www.imperiumsoftware.com.br/img/freela/vestido02.jpg",
+				"http://www.imperiumsoftware.com.br/img/freela/vestido01.jpg",
+			]
+		}
+	],
+	"comentarios" : [
+		{
+			"id": 1,
+			"profissionalId": 1,
+			"autor": "Daniel Tostes",
+			"avaliacao": 5,
+			"data": "25/03/2020",
+			"comentario": "profissional excelente. Recomendo. Atenciosa e caprichosa. Nem reconheci a minha casa.",
+			"foto": "http://www.imperiumsoftware.com.br/img/freela/homem06.jpg"
+		},
+		{
+			"id": 2,
+			"profissionalId": 1,
+			"autor": "Bruna Menezes",
+			"avaliacao": 5,
+			"data": "22/03/2020",
+			"comentario": "Realmente é muito cuidadosa com a casa. Talvez por isso a dificuldade em conseguir um dia na agenda.",
+			"foto": "http://www.imperiumsoftware.com.br/img/freela/mulher06.jpg"
 		}
 	]
 }
