@@ -48,7 +48,7 @@
 				"longitude": -43.450754
 			},
 			"telefone": "(21) 99887-6655",
-			"foto": "",
+			"foto": "http://www.imperiumsoftware.com.br/img/freela/mulher01.jpg",
 			"avaliacao": 3
 		},
 		{
@@ -61,7 +61,7 @@
 				"longitude": -43.453116
 			},
 			"telefone": "(21) 99778-5566",
-			"foto": "",
+			"foto": "http://www.imperiumsoftware.com.br/img/freela/mulher02.jpg",
 			"avaliacao": 5
 		},
 		{
@@ -74,7 +74,7 @@
 				"longitude": -43.449628
 			},
 			"telefone": "(21) 98779-6541",
-			"foto": "",
+			"foto": "http://www.imperiumsoftware.com.br/img/freela/mulher03.jpg",
 			"avaliacao": 4
 		},
 		{
@@ -87,7 +87,7 @@
 				"longitude": -43.448480
 			},
 			"telefone": "(21) 88997-6532",
-			"foto": "",
+			"foto": "http://www.imperiumsoftware.com.br/img/freela/homem01.jpg",
 			"avaliacao": 5
 		},
 		{
@@ -100,7 +100,7 @@
 				"longitude": -43.452428
 			},
 			"telefone": "(21) 87799-1233",
-			"foto": "",
+			"foto": "http://www.imperiumsoftware.com.br/img/freela/homem02.jpg",
 			"avaliacao": 3
 		},
 		{
@@ -113,7 +113,7 @@
 				"longitude": -43.458688
 			},
 			"telefone": "(21) 91554-3360",
-			"foto": "",
+			"foto": "http://www.imperiumsoftware.com.br/img/freela/homem03.jpg",
 			"avaliacao": 3
 		}
 	],
