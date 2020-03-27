@@ -125,106 +125,56 @@
 	],
 	"galeria" : [
 		{
-			"id": 1,
 			"profissionalId": 1,
-			"fotos" : [
-				{
-					"id": 1,
-					"uriFoto" : "http://www.imperiumsoftware.com.br/img/freela/vestido01.jpg"
-				},
-				{ 
-					"id": 2,
-					"uriFoto" : "http://www.imperiumsoftware.com.br/img/freela/vestido02.jpg"
-				},
-				{ 
-					"id": 3,
-					"uriFoto" : "http://www.imperiumsoftware.com.br/img/freela/vestido03.jpg"
-				},
-				{ 
-					"id": 4,
-					"uriFoto" : "http://www.imperiumsoftware.com.br/img/freela/vestido04.jpg"
-				}
-			]
+			"urlFoto": "http://www.imperiumsoftware.com.br/img/freela/vestido01.jpg"
 		},
 		{
-			"id": 2,
+			"profissionalId": 1,
+			"urlFoto": "http://www.imperiumsoftware.com.br/img/freela/vestido02.jpg"
+		},
+		{
+			"profissionalId": 1,
+			"urlFoto": "http://www.imperiumsoftware.com.br/img/freela/vestido03.jpg"
+		},
+		{
 			"profissionalId": 2,
-			"fotos" : [
-				{
-					"id": 5,
-					"uriFoto" : "http://www.imperiumsoftware.com.br/img/freela/vestido04.jpg"
-				},
-				{
-					"id": 6,
-					"uriFoto" : "http://www.imperiumsoftware.com.br/img/freela/vestido03.jpg"
-				},
-				{
-					"id": 7,
-					"uriFoto" : "http://www.imperiumsoftware.com.br/img/freela/vestido02.jpg"
-				},
-				{
-					"id": 8,
-					"uriFoto" : "http://www.imperiumsoftware.com.br/img/freela/vestido01.jpg"
-				}
-			]
+			"urlFoto": "http://www.imperiumsoftware.com.br/img/freela/vestido04.jpg"
 		},
 		{
-			"id": 3,
+			"profissionalId": 2,
+			"urlFoto": "http://www.imperiumsoftware.com.br/img/freela/vestido03.jpg"
+		},
+		{
+			"profissionalId": 2,
+			"urlFoto": "http://www.imperiumsoftware.com.br/img/freela/vestido02.jpg"
+		},
+		{
+			"profissionalId": 2,
+			"urlFoto": "http://www.imperiumsoftware.com.br/img/freela/vestido01.jpg"
+		},
+		{
 			"profissionalId": 3,
-			"fotos" : [
-				{
-					"id": 9,
-					"uriFoto" : "http://www.imperiumsoftware.com.br/img/freela/vestido03.jpg"
-				},
-				{
-					"id": 10,
-					"uriFoto" : "http://www.imperiumsoftware.com.br/img/freela/vestido01.jpg"
-				},
-				{
-					"id": 11,
-					"uriFoto" : "http://www.imperiumsoftware.com.br/img/freela/vestido04.jpg"
-				},
-				{
-					"id": 12,
-					"uriFoto" : "http://www.imperiumsoftware.com.br/img/freela/vestido02.jpg"
-				}
-			]
+			"urlFoto": "http://www.imperiumsoftware.com.br/img/freela/vestido03.jpg"
 		},
 		{
-			"id": 4,
 			"profissionalId": 4,
-			"fotos" : [
-				{
-					"id": 13,
-					"uriFoto" : "http://www.imperiumsoftware.com.br/img/freela/decoracao01.jpg"
-				},
-				{
-					"id": 14,
-					"uriFoto" : "http://www.imperiumsoftware.com.br/img/freela/decoracao02.jpg"
-				},
-				{
-					"id": 15,
-					"uriFoto" : "http://www.imperiumsoftware.com.br/img/freela/decoracao03.jpg"
-				}
-			]
+			"urlFoto": "http://www.imperiumsoftware.com.br/img/freela/decoracao01.jpg"
 		},
 		{
-			"id": 5,
+			"profissionalId": 4,
+			"urlFoto": "http://www.imperiumsoftware.com.br/img/freela/decoracao02.jpg"
+		},
+		{
+			"profissionalId": 4,
+			"urlFoto": "http://www.imperiumsoftware.com.br/img/freela/decoracao03.jpg"
+		},
+		{
 			"profissionalId": 5,
-			"fotos" : [
-				{
-					"id": 16,
-					"uriFoto" : "http://www.imperiumsoftware.com.br/img/freela/decoracao03.jpg"
-				},
-				{
-					"id": 17,
-					"uriFoto" : "http://www.imperiumsoftware.com.br/img/freela/decoracao02.jpg"
-				},
-				{
-					"id": 1,
-					"uriFoto" : "http://www.imperiumsoftware.com.br/img/freela/decoracao01.jpg"
-				}
-			]
+			"urlFoto": "http://www.imperiumsoftware.com.br/img/freela/decoracao03.jpg"
+		},
+		{
+			"profissionalId": 5,
+			"urlFoto": "http://www.imperiumsoftware.com.br/img/freela/decoracao02.jpg"
 		}
 	],
 	"comentarios" : [
